@@ -1,3 +1,5 @@
+## Output from the PyPoll.py file created from the classwork in Module 4 ##
+
 
 Election Results
 -------------------------
@@ -10,3 +12,6 @@ Raymon Anthony Doane: 3.1% (11,606)
 Winner: Diana DeGette
 Winning Percentage: 73.8%
 -----------------------
+
+
+## Added text for context of what the file represents after the PyPoll.py file was run. ##
