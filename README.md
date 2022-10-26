@@ -39,7 +39,7 @@ A Colorado Board of Elections employee has given you that following tasks to com
     •	369,711 votes	
 
 ### List of Candidates
-   •	Candidate 1: Charles Casper Stockha
+   •	Candidate 1: Charles Casper Stockhas	
    •	Candidate 2: Diana DeGette
    •	Candidate 3: Raymon Anthony Doane
 
