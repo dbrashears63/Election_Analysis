@@ -38,10 +38,10 @@ A Colorado Board of Elections employee has given you that following tasks to com
 ### Total Vote Count
     •	369,711 votes	
 
-### List of Candidates 
-•	Candidate 1: Charles Casper Stockham
-•	Candidate 2: Diana DeGette 
-•	Candidate 3: Raymon Anthony Doane
+### List of Candidates
+   •	Candidate 1: Charles Casper Stockha
+   •	Candidate 2: Diana DeGette
+   •	Candidate 3: Raymon Anthony Doane
 
 ### Candidate Voter Results
   •	Candidate 1: Charles Casper Stockham received 23.0% of the vote and 85,213 number of the votes.
