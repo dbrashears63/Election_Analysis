@@ -21,4 +21,5 @@ A Colorado Board of Elections employee has given you that following tasks to com
   Two software platforms were used to create the required programing code to perform the tasks assigned for the project.
 
   Visual Studio Code 1.72.2
+  
   Python 3.10
